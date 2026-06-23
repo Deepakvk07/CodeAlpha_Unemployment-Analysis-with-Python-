@@ -101,10 +101,10 @@ The analysis includes:
 
 | Metric | Value |
 |--------|--------|
-| Highest Unemployment Region | XX |
-| Lowest Unemployment Region | XX |
-| Average Unemployment Rate | XX% |
-| Highest Employment Region | XX |
+| Highest Unemployment Region | Haryana |
+| Lowest Unemployment Region | Tripura |
+| Average Unemployment Rate | 11.8% |
+| Highest Employment Region | Uttar Pradesh |
 
 ---
 
